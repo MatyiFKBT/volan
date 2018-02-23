@@ -41,12 +41,12 @@ Offline szkript, ami a menetrendek.hu-s adatbázissal funkcionál.
    5. a Form data-n belül kattints a "json:" után lévő szövegre, hogy kijelöld,
    6. ezt másold ki, és illeszd be a params.txt fileba, (A fileban hagytam egy sort példának, azt nyugodtan kitörölheted)
    <br>Példa:
-   ![segítség](https://raw.githubusercontent.com/b9nc9/menetrendek/master/segitseg.png)
+   ![segítség](https://raw.githubusercontent.com/b9nc9/volan/master/segitseg.png)
    <br>*Ha több útvonalat szeretnél felvenni a későbbi adatbázisba, akkor ismételd meg ezt a procedúrát az 1-es lépéstől! **Ügyelj arra, hogy a sorokat Enter-rel válaszd el!***
    7. parancssorban futtasd az adat.py szkriptet! (python adat.py)
 
 ### a program futtatása
-1. parancssorban futtasd a menetrend.py szkriptet! (python volan.py)
+1. parancssorban futtasd a volan.py szkriptet! (python volan.py)
 2. kövesd a szkript utasításait!
 3. fuss a buszhoz!
 
