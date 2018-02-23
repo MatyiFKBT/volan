@@ -1,0 +1,68 @@
+Téglás;városháza;Debrecen;autóbusz-állomás;04:21;05:00;munkaszüneti napok kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;04:31;05:10;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;04:41;05:20;szabad- és munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;04:41;05:20;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;04:46;05:25;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;05:11;05:55;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;05:26;06:10;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;05:41;06:25;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;05:56;06:40;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:11;06:55;munkaszüneti napok kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;06:21;07:05;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:22;06:56;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:22;07:06;szabad- és munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:31;07:15;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:36;07:20;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;06:41;07:25;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;07:01;07:55;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;07:01;07:45;tanszünetben munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;07:21;08:05;szabadnap kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;07:51;08:35;szabadnapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;07:51;08:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;08:06;08:50;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;08:11;08:40;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;08:21;09:05;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;08:51;09:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;09:01;09:45;munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;09:21;10:05;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;09:31;10:15;szabad- és munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;09:47;10:31;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;09:51;10:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;10:21;11:05;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;10:36;11:20;szabad- és munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;10:51;11:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;11:21;12:05;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;11:51;12:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;12:21;13:05;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;12:41;13:25;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;12:51;13:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;13:21;14:05;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;13:36;14:20;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;13:51;14:35;tanszünetben munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;13:51;14:35;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;14:06;14:50;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;14:21;15:05;szabadnap kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;14:51;15:35;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;14:51;15:35;szabadnapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;15:21;16:05;szabadnap kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;15:31;16:15;szabadnapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;15:36;16:20;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;15:51;16:35;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;16:07;16:51;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;16:16;17:00;tanszünetben munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;16:16;17:00;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;16:26;17:10;iskolai előadási napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;16:36;17:20;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;16:51;17:35;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;17:06;17:50;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;17:21;18:05;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;17:36;18:20;szabadnap kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;17:43;18:19;a hetek első iskolai előadási napját megelőző munkaszüneti napon
+Téglás;városháza;Debrecen;autóbusz-állomás;18:06;18:50;munkaszüneti napok kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;18:11;18:55;munkaszüneti napokon
+Téglás;városháza;Debrecen;autóbusz-állomás;18:28;19:00;naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;18:31;19:00;a hetek első iskolai előadási napját megelőző munkaszüneti napon
+Téglás;városháza;Debrecen;autóbusz-állomás;18:36;19:20;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;19:06;19:50;szabadnap kivételével naponta
+Téglás;városháza;Debrecen;autóbusz-állomás;19:51;20:35;munkanapokon
+Téglás;városháza;Debrecen;autóbusz-állomás;20:41;21:25;naponta
