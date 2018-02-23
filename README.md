@@ -39,7 +39,7 @@ Offline szkript, ami a menetrendek.hu-s adatbázissal funkcionál.
    3. a "File" oszlopban találsz egy "talalatok_json.php" nevű állományt, klikk rá,
    4. jobbodalt kattints a "Params" fülre,
    5. a Form data-n belül kattints a "json:" után lévő szövegre, hogy kijelöld,
-   6. ezt másold ki, és illeszd be a params.txt fileba,
+   6. ezt másold ki, és illeszd be a params.txt fileba, (A fileban hagytam egy sort példának, azt nyugodtan kitörölheted)
    <br>Példa:
    ![segítség](https://raw.githubusercontent.com/b9nc9/menetrendek/master/segitseg.png)
    <br>*Ha több útvonalat szeretnél felvenni a későbbi adatbázisba, akkor ismételd meg ezt a procedúrát az 1-es lépéstől! **Ügyelj arra, hogy a sorokat Enter-rel válaszd el!***
