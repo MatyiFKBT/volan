@@ -13,4 +13,4 @@ logo = '''
      \/ \___/|_|\__,_|_| |_| készítette: @b9nc9
 '''
 print(logo)
-volan.Main()
+menetrend.Main()
