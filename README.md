@@ -58,7 +58,7 @@ Ha sikerült mindent a leírtak alapján beállítanod és az szkript kilistázt
 
 # Függőségek
 * Windows/Linux/OSX: Python 3, egyértelműen
-* Android/iOS-en jailbreak, valamilyen Terminal emulátor, Python 3
+* Android/iOS-en jailbreak, valamilyen Terminal emulátor (Adnroidra a ![Termux](https://termux.com/)-ot ajánlom), Python 3
 * Python modulok: chardet, requests, urllib3
 
    
