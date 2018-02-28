@@ -58,7 +58,7 @@ class Busz:
             self.TolIg()
             self.Elment()
             print("{0} - {1}".format(self.indulasi_ido, self.erkezesi_ido))
-        elif (self.kozlekedik == "iskolai előadási napokon" and most.month != 7 and most.month != 7 and date.weekday(most) != 5 and date.weekday(most) != 6) or most.month == 6 and most.day <= 15:
+        elif (self.kozlekedik == "iskolai előadási napokon" and most.month != 7 and most.month != 8 and date.weekday(most) != 5 and date.weekday(most) != 6) or most.month == 6 and most.day <= 15:
             self.TolIg()
             self.Elment()
             print("{0} - {1}".format(self.indulasi_ido, self.erkezesi_ido))
