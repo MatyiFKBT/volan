@@ -18,7 +18,7 @@ with requests.Session() as s:
 
 db = open("adb.txt", "a")
 for x in nyers:
-    for y in range(1,len(x["talalatok"])):
+    for y in range(1,len(x["talalatok"])+1):
         if ',' in x["talalatok"][str(y)]["departureStation"] and x["talalatok"][str(y)]["departureCity"] == "":
             felbont = x["talalatok"][str(y)]["departureStation"].split(',')
             x["talalatok"][str(y)]["departureCity"] = felbont[0]
