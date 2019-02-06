@@ -61,7 +61,6 @@ with requests.Session() as s:
 
 
 db = open("adatok.txt", "a")
-print(len(nyers))
 for x in range(0, len(nyers)):
     for y in range(1, len(nyers[x]["results"]["talalatok"])):
         busz = nyers[x]["results"]["talalatok"][str(y)]
