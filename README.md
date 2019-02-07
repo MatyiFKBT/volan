@@ -12,7 +12,7 @@ Offline szkript, ami a menetrendek.hu-s adatbázissal funkcionál.
 + nem kell Origo-s híreket bámulnod
 + nincs idegesítő pop-up, amikor elindítod a szkriptet, mint a menetrendek.hu-n
 + nem kell megvárnod, hogy az auto-complete betöltsön, majd az annak segítségével kiválasztott állomasokkal keress
-+ ![Android App!](https://github.com/b9nc9/VolanAndroid)
++ [Android App!](https://github.com/b9nc9/VolanAndroid)
 
 ## Miért ne?
 - Python-t, valamint a szkriptekhez szükséges modulokat kell telepíteni az eszközre, amin futtatni akarod 
@@ -39,5 +39,5 @@ Ha sikerült mindent a leírtak alapján beállítanod és az szkript kilistázt
 
 # Függőségek
 * Windows/Linux/OSX: Python 3, egyértelműen
-* Android/iOS-en jailbreak, valamilyen Terminal emulátor (Adnroidra a ![Termux](https://termux.com/)-ot ajánlom), Python 3
+* Android/iOS-en jailbreak, valamilyen Terminal emulátor (Adnroidra a [Termux](https://termux.com/)-ot ajánlom), Python 3
 * Python modulok: chardet, requests, urllib3
