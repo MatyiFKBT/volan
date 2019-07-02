@@ -77,7 +77,7 @@ def FelhBevitel(lista):
 def Main():
     buszok = []
 
-    with open("adb.txt", "r") as be:
+    with open("adatok.txt", "r") as be:
         for x in be:
             buszok.append(Busz(x))
     #INDULÁSI VÁROS KIVÁLASZTÁSA
