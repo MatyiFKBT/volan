@@ -12,7 +12,7 @@ Offline szkript, ami a menetrendek.hu-s adatbázissal funkcionál.
 + nem kell Origo-s híreket bámulnod
 + nincs idegesítő pop-up, amikor elindítod a szkriptet, mint a menetrendek.hu-n
 + nem kell megvárnod, hogy az auto-complete betöltsön, majd az annak segítségével kiválasztott állomasokkal keress
-+ [Android App!](https://github.com/b9nc9/VolanAndroid)
++ [Android App!](https://github.com/b9nc9/busfndr)
 
 ## Miért ne?
 - Python-t, valamint a szkriptekhez szükséges modulokat kell telepíteni az eszközre, amin futtatni akarod 
